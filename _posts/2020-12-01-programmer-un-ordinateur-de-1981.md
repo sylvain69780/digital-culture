@@ -19,7 +19,7 @@ Cette ordinateur se programme avec le language BASIC, très simple à apprendre.
 
 ### Initiation
 
-[Experimenter en BBC Basic](https://hackmd.io/@NmkGBTybRuKG4gBXN_rlmA/S14oALQCP)
+[Experimenter en BBC Basic](https://sylvain69780.github.io/digital-culture/2020/12/01/manuel-bbc-basic-fr.html)
 
 ### pour les petits malins
 
