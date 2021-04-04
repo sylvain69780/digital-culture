@@ -18,3 +18,4 @@ title: About
 ---
 ```
 
+* Le langage utilisé dans les pages et "Liquid" dont la documentation est [ici](https://jekyllrb.com/docs/liquid/)
