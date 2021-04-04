@@ -1,3 +1,8 @@
+---
+layout: default
+title: Ecrire un message en CMD
+tags: initiation
+---
 - Ouvrir une **Invite de commande Windows**
 - Tapez (suivi de Entrée)
 ```code
