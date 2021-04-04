@@ -12,7 +12,7 @@ Des ateliers de 1 heure maximum.
   <h2>{{ tag[0] }}</h2>
   <ul>
     {% for post in tag[1] %}
-      <li><a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</a></li>
+      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</a></li>
     {% endfor %}
   </ul>
 {% endfor %}
