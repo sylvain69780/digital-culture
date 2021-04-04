@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Colorier des pixels
+title: Colorier des pixels sur le site Shadertoy
 tags: initiation
 ---
 # Intro
