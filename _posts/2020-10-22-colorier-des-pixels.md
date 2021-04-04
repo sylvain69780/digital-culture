@@ -10,21 +10,20 @@ tags: initiation
 - Quantité de rouge (R Red en Anglais)
 - Quantité de vert (G Green en Anglais)
 - Quantité de bleu (B Blue en Anglais)
-:::
+
 # Etape 1 - Colorer un écran en **bleu**
 - Aller sur le site https://www.shadertoy.com/
 - Clique sur le bouton "Nouveau"
-:::warning
-:warning: 
+
 En Anglais on ecrit les nombres à virgule avec un **point** et non pas une virgule.
 Comme PI=3.1459 et non pas PI=3,14159
-:warning: 
+
 En language Shadertoy, Les valeures numériques comportent forcement un **point** (meme si il n'y a pas de chiffre après la virgule, c'est pour les distinger des valeurs entières)
-:warning: 
+
 Toutes les lignes de programme se terminent par un ";" pour les séparer les unes des autres.
-:warning: 
+
 Les lignes en commentaire (avec **//** au début de la ligne) ne sont pas executées par le programme. Ce sont des commentaires ! En mettant une ligne de programme en commentaire, on désactive celle-ci.
-:::
+
 - A la place (effacer et remplacer) de la ligne ci dessous
 ```cpp=
     // Time varying pixel color
@@ -37,9 +36,9 @@ Taper
 - Clique sur le bouton "Compiler" (play) en bas du programme, ou bien ALT+ENTER
 - **Bravo** un écran bleu s'affiche. Vous avez affiché des pixels tout en bleu c'est très bien.
 - Sauvez-vous afficher un écran en **rouge** ? En **vert** ? En **blanc** ? En **gris** (utiliser des valeurs décimales entre 0.0 et 1.0 comme 0.7 pour doser les couleurs)
-:::success
+
 Vous avez fait un programme sur Shadertoy :+1: 
-:::
+
 - **BONUS TIME** pour le plus rapides, affichez un dégradé de couleur en utilisant la variable **uv.y** à la place d'un des chiffres. **uv.y** C'est la hauteur du point à l'écran. **uv.x** c'est sa position horizontale à l'écran. On fait donc varier l'intensité de la couleur en fonction de la position du pixel à l'écran !
 
 # Etape 2 - Modifier un programme Existant
@@ -70,11 +69,9 @@ Vous avez fait un programme sur Shadertoy :+1:
     // float d = sdOctahedron(q,.4); 
     // float d = length(q)-.4; // sphere
 ```
-:::info
-:bulb: 
+
 - Un tore (Torus) est une forme de beignet
 - Un Hexagone a six coté en colonne (HexPrism)
 - Un Octahedre (Octahedron) a une forme de crystal.
 - Une Sphere est une boule , replace le .4 par une nombre plus grand pour changer sa taille.
 Tout ceci est expliqué par INIGO ici https://iquilezles.org/www/articles/distfunctions/distfunctions.htm
-:::
