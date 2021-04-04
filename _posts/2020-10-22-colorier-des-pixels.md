@@ -3,9 +3,9 @@ layout: default
 title: Colorier des pixels
 tags: initiation
 ---
-:::warning
-Pour commencer ce cours, il faut savoir que les couleurs affichées sur un écran d'ordinateur sont représentées par **3 valeurs numériques** :
-C'est le codage **RGB** !
+# Intro
+>Pour commencer ce cours, il faut savoir que les couleurs affichées sur un écran d'ordinateur sont >représentées par **3 valeurs numériques** :
+>C'est le codage **RGB** !
 
 - Quantité de rouge (R Red en Anglais)
 - Quantité de vert (G Green en Anglais)
