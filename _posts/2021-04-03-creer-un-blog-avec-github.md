@@ -13,12 +13,14 @@ Simplement
 Pour qu'un fichier md ou html soit traité par Jekyll, il doit avoir au début 
 ```
 ---
-layout: page
+layout: default
 title: About
 ---
 ```
 
-* Le langage utilisé dans les pages et "Liquid" dont la documentation est [ici](https://jekyllrb.com/docs/liquid/)
+* Le langage utilisé dans les pages est "Liquid" dont la documentation est [ici](https://jekyllrb.com/docs/liquid/)
+
+Example de code "Liquid" :
 
 Pour afficher la liste des posts groupés par Tag : 
 {% raw %}
