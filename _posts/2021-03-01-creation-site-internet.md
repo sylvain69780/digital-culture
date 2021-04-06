@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Les principes de creatino d'un site Internet
+title: Les principes de creation d'un site Internet
 tags: initiation
 ---
 ## Faire un site internet en tapant du code !
