@@ -15,6 +15,42 @@ Comment utiliser l'ordinateur pour crée du contenu (musique, images) qu'on puis
 - Réaliser 2 boucles FOR imriquées pour réaliser un pavage à l'écran
 - Essayer de réaliser un [pavage de Truchet](http://images.math.cnrs.fr/Les-pavages-de-Truchet.html)
 
+Mode 0 640 256
+
+# Damien
+
+![Tweet](https://twitter.com/i/status/1380939769073565696)
+
+```basic
+MODE 2
+FOR c=0 TO 10
+GCOL 0,RND(c)
+FOR x=0TO7
+FOR y=0 TO 9
+R=RND(1)
+IF R<0.5 THEN MOVE y*128,x*128 : MOVE y*128+127, x*128 : PLOT 85,y*128+127,x*128+127
+IF R>0.5 THEN MOVE y*128,x*128+127 : MOVE y*128+127, x*128 : PLOT 85,y*128+127,x*128+127
+NEXT y
+NEXT x
+NEXT c
+```
+
+# Marion
+
+![Tweet](https://twitter.com/i/status/1380940331840122888)
+
+```basic
+MODE 0
+COLOUR 1
+FOR Longueur=0 TO 9
+FOR Hauteur=0 TO 9
+R=RND(1) 
+IF R>0.5 THEN MOVE Longueur*128,Hauteur*128 : MOVE Longueur*128+127,Hauteur*128 : PLOT 85,Longueur*128+127,Hauteur*128+127
+IF R<0.5 THEN MOVE Longueur*128,Hauteur*128+127 : MOVE Longueur*128+127,Hauteur*128+127 : PLOT 85,Longueur*128+127,Hauteur*128
+NEXT Hauteur
+NEXT Longueur
+```
+
 # Exemple
 
 S'inspirer du programme exemple ci-dessous, mais pas de copier coller !
