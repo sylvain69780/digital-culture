@@ -3,6 +3,10 @@ layout: default
 title: Le retour du BBC micro bot, pavages
 tags: initiation
 ---
+# Question
+
+Comment utiliser l'ordinateur pour crée du contenu (musique, images) qu'on puisse utiliser librement ?
+
 # Objectifs
 
 - TAPER du code sur [BBC BASIC EDITOR](https://bbcmic.ro/), exercice au clavier
