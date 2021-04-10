@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Le retour du BBC micro bot, pavages
+tags: initiation
 ---
 # Objectifs
 
