@@ -11,7 +11,11 @@ tags: initiation
 - Réaliser 2 boucles FOR imriquées pour réaliser un pavage à l'écran
 - Essayer de réaliser un [pavage de Truchet](http://images.math.cnrs.fr/Les-pavages-de-Truchet.html)
 
-# S'inspirer du programme exemple ci-dessous, mais pas de copier coller !
+# Exemple
+
+S'inspirer du programme exemple ci-dessous, mais pas de copier coller !
+
+Utiliser les cours précédents pour retrouver les fonctions de dessin du Basic BBC Micro
 
 ```basic
 MODE2
