@@ -15,7 +15,7 @@ Comment utiliser l'ordinateur pour crée du contenu (musique, images) qu'on puis
 - Réaliser 2 boucles FOR imriquées pour réaliser un pavage à l'écran
 - Essayer de réaliser un [pavage de Truchet](http://images.math.cnrs.fr/Les-pavages-de-Truchet.html)
 
-Mode 0 640 256
+>En MODE 0 la résolution est 640x256 pixels mais 2 couleurs
 
 # Damien
 
