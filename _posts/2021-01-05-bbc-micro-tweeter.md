@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Jouer avec BBC micro Bot ! Analyse de 'devine nombre'.
+title: Jouer avec BBC micro Bot ! Devine Nombre.
 tags: initiation
 ---
 ## Analyse d'un programme : devine nombre
