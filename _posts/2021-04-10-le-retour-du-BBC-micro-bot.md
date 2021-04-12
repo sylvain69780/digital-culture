@@ -57,6 +57,35 @@ NEXT Hauteur
 NEXT Longueur
 ```
 
+# Papa essaie de faire mieux ...
+
+```basic
+MODE 2
+A%=0
+B%=1
+C%=3
+D%=2
+FOR C=1 TO 6
+GCOL 0,C
+FOR Y=0 TO 7
+FOR X=0 TO 9
+R% = INT(RND(1)*4)
+IF R%=0 PROCTRI(X,Y,A%,B%,C%)
+IF R%=1 PROCTRI(X,Y,B%,C%,D%)
+IF R%=2 PROCTRI(X,Y,C%,D%,A%)
+IF R%=3 PROCTRI(X,Y,D%,A%,B%)
+NEXT X
+NEXT Y
+NEXT C
+END
+DEF PROCTRI(X,Y,AA%,BB%,CC%)
+SCALE=128
+MOVE (X+(AA% MOD 2))*SCALE,(Y+(AA% DIV 2))*SCALE
+MOVE (X+(BB% MOD 2))*SCALE,(Y+(BB% DIV 2))*SCALE
+PLOT 85,(X+(CC% MOD 2))*SCALE,(Y+(CC% DIV 2))*SCALE
+ENDPROC
+```basic
+
 # Exemple
 
 S'inspirer du programme exemple ci-dessous, mais pas de copier coller !
