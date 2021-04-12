@@ -17,6 +17,8 @@ Comment utiliser l'ordinateur pour crée du contenu (musique, images) qu'on puis
 
 >En MODE 0 la résolution est 640x256 pixels mais 2 couleurs
 
+[La page d'aide en Anglais](https://www.bbcmicrobot.com/learn/index.html) Utiliser la traduction dans Chrome **Traduire cette page**.
+
 # Damien
 
 ![Image]({{ site.baseurl }}\assets\images\truchet_damien.png)
