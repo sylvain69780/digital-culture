@@ -84,7 +84,7 @@ MOVE (X+(AA% MOD 2))*SCALE,(Y+(AA% DIV 2))*SCALE
 MOVE (X+(BB% MOD 2))*SCALE,(Y+(BB% DIV 2))*SCALE
 PLOT 85,(X+(CC% MOD 2))*SCALE,(Y+(CC% DIV 2))*SCALE
 ENDPROC
-```basic
+```
 
 # Exemple
 
