@@ -17,6 +17,9 @@ A vous de jouer maintenant, je compte sur vous pour que je puisse décorer mon b
 
 Utiliser la traduction automatique en Francais disponible dans Chrome
 
+En echauffement, commencer par afficher les nombres de 0 à 6, tous dans une couleur differente.
+Couleur de texte : utilisaton de la fonction COLOUR
+
 - [BBC Basic Editor](https://bbcmic.ro/)
 - [La page d'aide en Anglais de Dominic Pajak le createur du BBC micro bot](https://www.bbcmicrobot.com/learn/index.html)
 - [La page de Paul Malin sur les fonctions graphiques](https://blog.mousefingers.com/post/bbc/bbc_reference/)
