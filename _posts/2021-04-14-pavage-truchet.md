@@ -15,6 +15,8 @@ A vous de jouer maintenant, je compte sur vous pour que je puisse décorer mon b
 
 # Les liens utiles
 
+Utiliser la traduction automatique en Francais disponible dans Chrome
+
 - [BBC Basic Editor](https://bbcmic.ro/)
 - [La page d'aide en Anglais de Dominic Pajak le createur du BBC micro bot](https://www.bbcmicrobot.com/learn/index.html)
 - [La page de Paul Malin sur les fonctions graphiques](https://blog.mousefingers.com/post/bbc/bbc_reference/)
