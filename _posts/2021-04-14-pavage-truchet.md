@@ -9,7 +9,9 @@ Avant d'aller plus loin, on va revoir ce qu'on a fait la dernière fois
 
 On va faire un nouveau pavage carré, mais varié
 
-[Sebastien Truchet](https://fr.wikipedia.org/wiki/S%C3%A9bastien_Truchet) inventeur de ces pavages, est né à Lyon en 1657 ! Il ne pensait pas qu'on allait encore parler de lui 360 ans plus tard. Bravo Sébastien !!!
+[Sebastien Truchet](https://fr.wikipedia.org/wiki/S%C3%A9bastien_Truchet) inventeur de ces pavages, est né à Lyon en 1657 ! Il ne pensait pas qu'on allait encore parler de lui 360 ans plus tard. Bravo Sébastien !
+
+A vous de jouer maintenant, je compte sur vous pour que je puisse décorer mon blog de vos meilleures creations.
 
 # Les liens utiles
 
