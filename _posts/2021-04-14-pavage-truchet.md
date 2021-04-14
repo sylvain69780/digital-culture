@@ -21,7 +21,16 @@ On va faire un nouveau pavage carré, mais varié
 
 # Etapes
 
+Utiliser les exemples ci-dessous, mais pas de couper coller
+
 - [Dessiner un CARRE de taille S centré à l'écran](https://bbcmic.ro/#%7B%22v%22%3A1%2C%22program%22%3A%22MODE2%5CnS%3D128%5CnVDU%2029%2C640%3B512%3B%5CnMOVE%200%2C0%5CnPLOT%20153%2C100%2C0%5Cn%22%7D)
+
+La commande ci-dessous permet de redefinir l'origine 0,0 du repere de l'ecran, ce qui est bien pratique.
+
+```basic
+VDU 29,640;512;
+```
+
 - [Dessiner les lignes qui rejoignent les centres des cotes](https://bbcmic.ro/#%7B%22v%22%3A1%2C%22program%22%3A%22MODE2%5CnS%3D256%5CnVDU%2029%2C640%3B512%3B%5CnT%3DS%2F2%5CnMOVE%20T%2CT%5CnDRAW%20-T%2CT%5CnDRAW%20-T%2C-T%5CnDRAW%20T%2C-T%5CnDRAW%20T%2CT%5Cn%5Cn%22%7D)
 - [Solution](https://bbcmic.ro/#%7B%22v%22%3A1%2C%22program%22%3A%22MODE2%5CnS%3D256%5CnVDU%2029%2C640%3B512%3B%5CnT%3DS%2F2%5CnMOVE%20T%2CT%5CnDRAW%20-T%2CT%5CnDRAW%20-T%2C-T%5CnDRAW%20T%2C-T%5CnDRAW%20T%2CT%5CnMOVE%200%2CT%5CnDRAW%20-T%2C0%5CnDRAW%200%2C-T%5CnDRAW%20T%2C0%5CnDRAW%200%2CT%5Cn%5Cn%22%7D)
 
