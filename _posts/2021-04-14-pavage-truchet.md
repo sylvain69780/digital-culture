@@ -30,7 +30,7 @@ Couleur de texte : utilisaton de la fonction COLOUR
 
 Utiliser les exemples ci-dessous, mais pas de couper coller
 
-- [Dessiner un CARRE de taille S centré à l'écran](https://bbcmic.ro/#%7B%22v%22%3A1%2C%22program%22%3A%22MODE2%5CnS%3D128%5CnVDU%2029%2C640%3B512%3B%5CnMOVE%200%2C0%5CnPLOT%20153%2C100%2C0%5Cn%22%7D)
+- [Dessiner un CARRE de de coté S=64 centré à l'écran](https://bbcmic.ro/#%7B%22v%22%3A1%2C%22program%22%3A%22MODE2%5CnS%3D128%5CnVDU%2029%2C640%3B512%3B%5CnMOVE%200%2C0%5CnPLOT%20153%2C100%2C0%5Cn%22%7D)
 
 La commande ci-dessous permet de redefinir l'origine 0,0 du repere de l'ecran, ce qui est bien pratique.
 
