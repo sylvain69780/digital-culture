@@ -25,6 +25,8 @@ Cette ordinateur se programme avec le language BASIC, très simple à apprendre.
 
 [Le manuel complet en Anglais](http://bbc.nvg.org/doc/BBCUserGuide-1.00.pdf)
 
+### Reducteur de code
 
+[Reducteur de code](https://8bitkick.github.io/vdu/)
 
 
