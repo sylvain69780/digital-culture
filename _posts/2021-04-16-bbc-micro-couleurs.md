@@ -11,6 +11,8 @@ Mais elles n'ont pas été choisies en hasard, [en voici l'explication](https://
 
 ![image]({{ site.baseurl }}\assets\images\couleurs_bbc_micro.png)
 
+![image](https://pbs.twimg.com/media/EzDz5WAWEAEtsSQ.png)
+
 # Les liens utiles
 
 Utiliser la traduction automatique en Francais disponible dans Chrome

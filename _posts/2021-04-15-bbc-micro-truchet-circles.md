@@ -19,7 +19,7 @@ Utiliser la traduction automatique en Francais disponible dans Chrome
 
 >En echauffement, commencer par afficher les puissances de 2 : 1,2,4,8,16,32,64 .. 4096
 >Utiliser des puissances de 2 pour des longeurs est tres utile 
->C'est un moyen d'eviter d'avoir des pixels de travers lorsqu'on trace des lignes.
+>C'est par exemple un moyen d'eviter d'avoir des pixels bien visibles.
 
 - [BBC Basic Editor](https://bbcmic.ro/)
 - [La page d'aide en Anglais de Dominic Pajak le createur du BBC micro bot](https://www.bbcmicrobot.com/learn/index.html)

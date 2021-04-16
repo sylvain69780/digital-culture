@@ -35,6 +35,10 @@ VDU29,640;256;
 
 - On ne va utiliser que les commandes MOVE puis DRAW et 2 variables A et B, plus le Zero pour tracer l'hexagone.
 
+- Hexagone dans [Desmos](https://www.desmos.com/calculator/4rtvzometl)
+
+ <iframe src="https://www.desmos.com/calculator/4rtvzometl?embed" width="100px" height="100px" style="border: 1px solid #ccc" frameborder=0></iframe>
+
 # Etapes si vous etes perdus
 
 [Contour de l'Hexagone](https://bbcmic.ro/#%7B%22v%22%3A1%2C%22program%22%3A%22MODE0%5CnVDU29%2C640%3B512%3B%5CnS%3D128%5CnA%3DS*SQR%283%29%5CnB%3DS%5CnMOVE%20A%2C-B%5CnDRAW%20A%2CB%5CnDRAW%200%2CA%5CnDRAW%20-A%2CB%5CnDRAW%20-A%2CB%5CnDRAW%20-A%2C-B%5CnDRAW%200%2C-A%5CnDRAW%20A%2C-B%5Cn%22%7D) 
