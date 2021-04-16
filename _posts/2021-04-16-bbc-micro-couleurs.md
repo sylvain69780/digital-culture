@@ -24,7 +24,8 @@ Utiliser la traduction automatique en Francais disponible dans Chrome
 - [BBC Basic Editor](https://bbcmic.ro/)
 - [La page d'aide en Anglais de Dominic Pajak le createur du BBC micro bot](https://www.bbcmicrobot.com/learn/index.html)
 - [Page de Paul MALIN d'intro au BBC micro bot](https://translate.google.com/translate?sl=en&tl=fr&u=https://blog.mousefingers.com/post/bbc/bbc_bbcmicrobot/)
-- [La page de Paul Malin sur les fonctions graphiques](https://blog.mousefingers.com/post/bbc/bbc_reference/)
+- [La page de Paul Malin sur les fonctions graphiques](https://blog.mousefingers.com/post/bbc/bbc_reference/) et [fun with BBC micro](https://blog.mousefingers.com/post/bbc/bbc_bbcmicrobot/)
+
 
 # Creer des degradés de couleur 
 

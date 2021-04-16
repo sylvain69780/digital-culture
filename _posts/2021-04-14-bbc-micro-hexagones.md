@@ -26,7 +26,8 @@ Sur une feuille de papier, dessiner un hexagone de coté 2 cm, **pointe en haut*
 
 - [BBC Basic Editor](https://bbcmic.ro/)
 - [La page d'aide en Anglais de Dominic Pajak le createur du BBC micro bot](https://www.bbcmicrobot.com/learn/index.html)
-- [La page de Paul Malin sur les fonctions graphiques](https://blog.mousefingers.com/post/bbc/bbc_reference/)
+- [La page de Paul Malin sur les fonctions graphiques](https://blog.mousefingers.com/post/bbc/bbc_reference/) et [fun with BBC micro](https://blog.mousefingers.com/post/bbc/bbc_bbcmicrobot/)
+
 
 Pour centrer l'origine 0,0 au centre de l'écran (plus partique)
 ```basic
@@ -37,7 +38,7 @@ VDU29,640;256;
 
 - Hexagone dans [Desmos](https://www.desmos.com/calculator/4rtvzometl)
 
- <iframe src="https://www.desmos.com/calculator/4rtvzometl?embed" width="100px" height="100px" style="border: 1px solid #ccc" frameborder=0></iframe>
+ <iframe src="https://www.desmos.com/calculator/4rtvzometl?embed" width="300px" height="300px" style="border: 1px solid #ccc" frameborder=0></iframe>
 
 # Etapes si vous etes perdus
 
