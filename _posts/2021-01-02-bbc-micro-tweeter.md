@@ -16,6 +16,9 @@ NEXT I
 ### 2 Faire un Contours du cercle
 
 Trouver dans la page de Paul Malin
+
+[fun with BBC micro](https://blog.mousefingers.com/post/bbc/bbc_bbcmicrobot/)
+
 Comment change-t-on le diamètre du cercle ?
 
 ### 3 Faire un cercle de plus en plus grand

@@ -9,7 +9,9 @@ Nous allons maintenant apprendre les modes graphiques en utilisant le simulateur
 
 ### Les modes graphiques
 
-Vous allez trouver la réponse aux questons ci-dessous dans la page traduite ci-dessous [Traduction Google](https://translate.google.com/translate?sl=en&tl=fr&u=https://blog.mousefingers.com/post/bbc/bbc_bbcmicrobot/)
+Vous allez trouver la réponse aux questons ci-dessous dans la page (a traduire avec Google translate) ci-dessous 
+
+[fun with BBC micro](https://blog.mousefingers.com/post/bbc/bbc_bbcmicrobot/)
 
 Commandes graphiques : Modes graphiques
 
