@@ -44,6 +44,14 @@ VDU 29,640;512;
 
 [Tracé dans Desmos](https://www.desmos.com/calculator/of9rjtqrlo)
 
+>Augmenter les arcs de cercle par pas de 1/8, sachant que nous ne devez pas depasser 11/8
+>sinon on depasse la diagonale du Carré et le pavage risque de ne plus marcher.
+>On va definir des procedures pour pouvoir mieux organiser notre programme.
+>Une procedure permettra de tracer une coin du pavage
+>Une procedure permettra de tracer un carreau du pavage
+>une procedure de test nous permettra de tester not affichage.
+
+
 Pour tracer un cercle : centre, point de depart, point d'arrivée.
 ```basic
 REM Trace un arc de cercle
