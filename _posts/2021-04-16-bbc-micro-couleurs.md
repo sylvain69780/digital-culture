@@ -5,9 +5,11 @@ tags: initiation
 ---
 # Introduction
 
-Les couleurs affichées par le BBC Micro sont pour le moins FLASHY.
+Les couleurs affichées par le BBC Micro (en mode 2) sont pour le moins FLASHY.
 
 Mais elles n'ont pas été choisies en hasard, [en voici l'explication](https://bbcmic.ro/#%7B%22v%22%3A1%2C%22program%22%3A%22OSCLI%28%5C%22KEY10OLD%7CMLIST%7CM%5C%22%29%3ACALL!-4%3AREM%5C%22%C4%96%C4%82%C4%92%C4%80%C4%81%C4%99%C4%84%C2%B8%C4%81%C6%96%C4%82%C4%99%C6%99%C4%80%C4%80%C2%BC%C4%81%C4%92%C4%81%C4%82%C4%99%C4%84H%C4%83%C6%96%C4%82%C4%99%C6%99%C4%80%C4%80%C2%BC%C4%81%C4%92%C4%81%C4%84%C4%99%C4%84%C6%80%C4%82j%C4%81%C4%99%C6%99%C4%80%C4%80%C2%BC%C4%81%C4%85%C4%95%20Stupidised!%5C%22%22%7D).
+
+Ce sont des couleurs utilisables pour realiser des techniques d'imprimerie pour les combiner et obtenir d'autres couleurs.
 
 ![image]({{ site.baseurl }}\assets\images\couleurs_bbc_micro.png)
 
