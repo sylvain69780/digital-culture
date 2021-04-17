@@ -52,7 +52,7 @@ VDU 29,640;512;
 >une procedure de test nous permettra de tester not affichage.
 
 
-Pour tracer un cercle : centre, point de depart, point d'arrivée.
+Pour tracer un cercle : **centre**, **point de depart**, **point d'arrivée**.
 ```basic
 REM Trace un arc de cercle
 MOVE T,T : MOVE 0,T : PLOT &A5,T,0
