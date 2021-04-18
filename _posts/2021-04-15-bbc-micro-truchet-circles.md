@@ -49,7 +49,7 @@ VDU 29,640;512;
 >On va definir des procedures pour pouvoir mieux organiser notre programme.
 >Une procedure permettra de tracer une coin du pavage
 >Une procedure permettra de tracer un carreau du pavage
->une procedure de test nous permettra de tester not affichage.
+>une procedure de test nous permettra de tester notre affichage.
 
 
 Pour tracer un cercle : **centre**, **point de depart**, **point d'arrivée**.
