@@ -18,6 +18,7 @@ A vous de jouer maintenant, je compte sur vous pour que je puisse décorer mon b
 Utiliser la traduction automatique en Francais disponible dans Chrome
 
 >En echauffement, commencer par afficher les puissances de 2 : 1,2,4,8,16,32,64 .. 4096
+> ** Permet de verifier les notions : variables, boucles, ordre d'execution des instructions **
 >Utiliser des puissances de 2 pour des longeurs est tres utile 
 >C'est par exemple un moyen d'eviter d'avoir des pixels bien visibles.
 
