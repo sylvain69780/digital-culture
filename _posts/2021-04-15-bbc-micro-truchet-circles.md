@@ -21,6 +21,12 @@ Utiliser la traduction automatique en Francais disponible dans Chrome
 >Utiliser des puissances de 2 pour des longeurs est tres utile 
 >C'est par exemple un moyen d'eviter d'avoir des pixels bien visibles.
 
+>En echauffement, afficher les nombres 0 5 10 15 20 25 30 35 40 avec une boucle FOR.
+>De 3 facons différentes
+>- En utilisant une variable de valeur 0 au debut et auquel on ajoute 5 à chaque tour de boucle
+>- En utilisant le compteur de boucle et en le multiplicant par 5
+>- En utilisant le mot cle STEP de la boucle [FOR](http://www.bbcbasic.co.uk/bbcwin/tutorial/chapter11.html)
+
 - [BBC Basic Editor](https://bbcmic.ro/)
 - [La page d'aide en Anglais de Dominic Pajak le createur du BBC micro bot](https://www.bbcmicrobot.com/learn/index.html)
 - [Page de Paul MALIN d'intro au BBC micro bot](https://translate.google.com/translate?sl=en&tl=fr&u=https://blog.mousefingers.com/post/bbc/bbc_bbcmicrobot/)
@@ -31,9 +37,9 @@ Utiliser la traduction automatique en Francais disponible dans Chrome
 
 Utiliser les exemples ci-dessous, mais pas de couper coller
 
-- [Dessiner un CARRE de coté S=256 centré à l'écran](https://bbcmic.ro/#%7B%22v%22%3A1%2C%22program%22%3A%22MODE2%5CnS%3D128%5CnVDU%2029%2C640%3B512%3B%5CnMOVE%200%2C0%5CnPLOT%20153%2C100%2C0%5Cn%22%7D)
+- Dessiner un CARRE de coté S=256 centré à l'écran [demarrer avec ce rond](https://bbcmic.ro/#%7B%22v%22%3A1%2C%22program%22%3A%22MODE2%5CnS%3D128%5CnVDU%2029%2C640%3B512%3B%5CnMOVE%200%2C0%5CnPLOT%20153%2C100%2C0%5Cn%22%7D)
 
-La commande ci-dessous permet de redefinir l'origine 0,0 du repere de l'ecran, ce qui est bien pratique.
+>La commande ci-dessous permet de redefinir l'origine 0,0 du repere de l'ecran, ce qui est bien pratique.
 
 ```basic
 VDU 29,640;512;
