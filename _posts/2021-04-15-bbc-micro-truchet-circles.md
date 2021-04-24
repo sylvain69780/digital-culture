@@ -57,7 +57,12 @@ VDU 29,640;512;
 >Une procedure permettra de tracer une coin du pavage
 >Une procedure permettra de tracer un carreau du pavage
 >une procedure de test nous permettra de tester notre affichage.
-
+> Pour definir une procedure xxx
+```basic
+DEF PROCxxx(A,B)
+PRINT A;"coucou";B
+ENDPROC
+```
 
 Pour tracer un cercle : **centre**, **point de depart**, **point d'arrivée**.
 ```basic
