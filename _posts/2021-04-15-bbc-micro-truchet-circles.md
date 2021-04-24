@@ -22,7 +22,7 @@ Utiliser la traduction automatique en Francais disponible dans Chrome
 >C'est par exemple un moyen d'eviter d'avoir des pixels bien visibles.
 
 >En echauffement, afficher les nombres 0 5 10 15 20 25 30 35 40 avec une boucle FOR.
->De 3 facons différentes
+>De 3 façons différentes
 >- En utilisant une variable de valeur 0 au debut et auquel on ajoute 5 à chaque tour de boucle
 >- En utilisant le compteur de boucle et en le multiplicant par 5
 >- En utilisant le mot cle STEP de la boucle [FOR](http://www.bbcbasic.co.uk/bbcwin/tutorial/chapter11.html)
