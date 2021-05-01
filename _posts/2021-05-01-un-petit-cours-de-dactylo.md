@@ -27,6 +27,6 @@ Ensuite, il faudra lui prouver que vous savez faire une programme simple en util
 - [Page d'exemples de boucles FOR](http://www.bbcbasic.co.uk/bbcwin/tutorial/chapter11.html)
 
     - En multipliant le compteur de boucle par 3
-    - En utilisant une additon à chaque tour de boucle
+    - En utilisant une variable a laquelle on ajoute 3 à chaque tour de boucle
     - En utilisant le mot clé STEP de la boucle FOR
 
