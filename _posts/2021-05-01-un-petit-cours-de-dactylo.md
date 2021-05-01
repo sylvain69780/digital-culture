@@ -21,12 +21,11 @@ Ensuite, il faudra lui prouver que vous savez faire une programme simple en util
 # Realiser l'exercice de programmation
 
 - Afficher les nombres 0,3,6,9,12 ... 21 de trois façons différentes avec une boucle FOR.
+    - En multipliant le compteur de boucle par 3
+    - En utilisant une variable a laquelle on ajoute 3 à chaque tour de boucle
+    - En utilisant le mot clé STEP de la boucle FOR
 
 **Liens utiles**
 - [BBC Basic Editor](https://bbcmic.ro/)
 - [Page d'exemples de boucles FOR](http://www.bbcbasic.co.uk/bbcwin/tutorial/chapter11.html)
-
-    - En multipliant le compteur de boucle par 3
-    - En utilisant une variable a laquelle on ajoute 3 à chaque tour de boucle
-    - En utilisant le mot clé STEP de la boucle FOR
 
