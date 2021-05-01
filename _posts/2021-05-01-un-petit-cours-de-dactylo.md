@@ -13,7 +13,7 @@ Ensuite, il faudra lui prouver que vous savez faire une programme simple en util
 
 # Echauffement
 
-[Réaliser les exercices](https://www.typingclub.com/sportal/program-17.game)
+[Réaliser les exercices](https://www.typingclub.com)
 
 >Avancer le plus possible dans les excercices en 30 minutes
 >On fera au moins 20 minutes de cette exercice à chaque fois.
