@@ -37,4 +37,5 @@ Il faut ensuite lui prouver que vous savez vos tables de multiplication, en les 
 **Liens utiles**
 - [BBC Basic Editor](https://bbcmic.ro/)
 - [Page d'exemples de boucles FOR](http://www.bbcbasic.co.uk/bbcwin/tutorial/chapter11.html)
+- [Page sur les chaines](https://www.bbcbasic.co.uk/bbcwin/tutorial/chapter06.html) 
 
