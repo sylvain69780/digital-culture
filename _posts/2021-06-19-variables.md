@@ -3,20 +3,25 @@ layout: default
 title: Les variables
 tags: initiation
 ---
-# Echauffement
-
-20 minutes de dactylo
-
-[Réaliser les exercices sur TypingClub](https://www.typingclub.com/dactylographie)
-
->Avancer le plus possible dans les excercices en 20 minutes
->On fera au moins 20 minutes de cette exercice à chaque fois.
-
 # Introduction
 
 L'algorithmique est une compétence importante qui vous sera utile pour votre futur travail, qu'il soit dans l'informatique ou non.
 
 >L'objectif de cette formation est que vous faire acquerir cette compétence pour réaliser des programmes étonnants, et pourquoi pas épater vos parents et vos amis.
+
+On va ici découvrir ou approfondir la notion de variable.
+- Savoir ce que c'est qu'une variable
+- Utiliser des variables pour tracer un dessin geometique. 
+
+Après cela nous pourrons avancer dans la programmation creative, et faire des programmes de plus en plus épatants.
+
+# Découverte
+
+Nous avons déjà vu la notion d'algorithme, qu'est ce que c'est ?
+Qu'avez vous réalisé comme programme ?
+A votre avis c'est quoi une variable ?
+
+# Apprentissage
 
 Visioner la video [Introduction à l'algorithmique - la notion de variable I](https://youtu.be/ckP-MPyGhow)
 A quoi servent les Variables ?
@@ -56,3 +61,12 @@ On continue à étudier l'algorithmique, une compétence qui vous sera utile dan
 - Pourquoi il faut montrer qu'on a compris, en reformulant.
 
 ![Schema](https://i1.wp.com/capsurvous.com/wp-content/uploads/2020/09/Schema-de-communication.jpg?resize=1024%2C539&ssl=1)
+
+# Pour finir
+
+20 minutes de dactylo
+
+[Réaliser les exercices sur TypingClub](https://www.typingclub.com/dactylographie)
+
+>Avancer le plus possible dans les excercices en 20 minutes
+>On fera au moins 20 minutes de cette exercice à chaque fois.
