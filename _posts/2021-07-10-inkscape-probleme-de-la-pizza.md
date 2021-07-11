@@ -28,13 +28,13 @@ Pas facile de couper une Pizza en 3 parts égales.
 
 ![image]({{ site.baseurl }}\assets\images\pizza.svg)
 
-Shift pour faire un cercle parfait.
-Tracer une ligne verticale ( Control )
-Placer le centre du cercle sur le milieu de la ligne.
-Transformer le cercle en chemin (path en anglais)
-Tracer un trait entre le centre et le bas du cercle (inferer à l'intersection des chemins)
-Tracer 2 traits partant du milieu du trait et horizonalement juste au cercle.
-Dessiner les parts de Pizza. Faire d'abord des triangles, plus courber le coté exterieur avec les points de controle des courbes de Bezier.
+Shift pour faire un cercle parfait.  
+Tracer une ligne verticale ( Control )  
+Placer le centre du cercle sur le milieu de la ligne.  
+Transformer le cercle en chemin (path en anglais)  
+Tracer un trait entre le centre et le bas du cercle (inferer à l'intersection des chemins)  
+Tracer 2 traits partant du milieu du trait et horizonalement juste au cercle.  
+Dessiner les parts de Pizza. Faire d'abord des triangles, plus courber le coté exterieur avec les points de controle des courbes de Bezier.  
 
 # Pour finir
 
