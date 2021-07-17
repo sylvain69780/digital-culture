@@ -5,7 +5,7 @@ tags: initiation
 ---
 # Introduction
 
-Ca vous dit d'epater vos amis et vos parents .
+Ca vous dit d'epater vos amis et vos parents ?
 Ils vont se demander comment tu as pu faire un dessin pareil.
 Pas question de leur dire qu'il s'agit simplement des fonctions sinus et cosinus !
 On trouve cas sur toutes les calculatrices.
