@@ -16,6 +16,8 @@ Le cercle trigonometrique
 
 [LE COURS : Trigonométrie - Première - Yvan Monka](https://youtu.be/wJjb3CSS3cg)
 
+![image]({{ site.baseurl }}\assets\images\cercle_trigo.png)
+
 # Apprentissage
 
 Tracer le cercle trigonometique avec une boucle FOR
