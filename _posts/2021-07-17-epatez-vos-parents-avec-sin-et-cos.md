@@ -24,11 +24,11 @@ Tracer le cercle trigonometique avec une boucle FOR
 
 Coordonnées à l'écran du BBC Micro : 1280 x 1024 
 
+- Test Graphique : Tracer une ligne de (0,0) à (1280,1024)
 - Afficher PI
 - Afficher 2*PI
 - Faire une boucle avec une variable A qui compte de 0 à 2*PI par pas de PI/32
-- Test Graphique : Tracer une ligne de (0,0) à (1280,1024)
-- Dessiner un cercle de rayon R centré en 640,512
+- Dessiner un cercle de rayon R centré en 640,512 en utilisant COS et SIN et la boucle FOR
 - Et si on fait varier R ?
     - en fonction de A ```R=A*50```
     - en fonction de A ? ```R=SIN(A*2)*50```
