@@ -37,6 +37,19 @@ Je vous montre et vous refaites.
     - En utilisant une variable a laquelle on ajoute 3 à chaque tour de boucle
     - En utilisant le mot clé STEP de la boucle FOR
 
+# MOD et DIV : Fonctions très utiles pour dessiner des motifs
+
+On peut dessiner une grille en 2 dimensions avec un seul compteur, en utilisant ces fonctions.
+
+```
+MODE 0
+shape = &99
+FOR I=0 TO 60
+MOVE (I MOD 10)*100,(I DIV 10)*100
+PLOT shape,30,30
+NEXT I
+```
+
 # Dessiner un Hexagone
 
 On commencera ceci
