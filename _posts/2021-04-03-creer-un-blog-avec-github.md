@@ -4,6 +4,24 @@ title: Creer un Blog avec GitHub pages
 tags: initiation
 ---
 
+# Introduction
+
+Comment faire pour épater ses copains/copines, parents, cousins ?
+Il faut savoir faire des choses et le montrer !
+Il faut aussi pour pouvoir bien expliquer quelque chose, l'avoir écrit quelque part correctement.
+Sur un blog, on se présente et on publie des articles sur les sujets qu'on souhaite, ceux qui nous font plaisir, ce qui nous interesse.
+
+Sur un blog, tout est absoluemnet public, il faut donc **prendre soin de bien expliquer** pour qu'un étranger puisse comprendre.
+Il ne faut pas non plus mettre des informations trop personnelles qui pourraient être mal utilisées, il ne faut pas mettre de 
+contenu offensant, et ne pas utiliser des contenus soumis à des droits d'auteur.
+
+Pourquoi cela ?
+
+Concernant l'orthographe, ce n'est pas le plus important, sauf si on fait un blog justement sur l'orthographe !
+Passer un peu de temps tout de même à se relire pour éviter les remarques idiotes.
+
+# Découverte
+
 Il est facile de créer un Blog avec GitHub pages.
 
 Simplement 
@@ -20,6 +38,8 @@ title: About
 
 * Le langage utilisé dans les pages est "Liquid" dont la documentation est [ici](https://jekyllrb.com/docs/liquid/)
 
+On va peut l'utiliser mais c'est bien pratique pour lister les posts.
+
 Example de code "Liquid" :
 
 Pour afficher la liste des posts groupés par Tag : 
@@ -35,3 +55,20 @@ Pour afficher la liste des posts groupés par Tag :
 {% endfor %}
 ```
 {% endraw %}
+
+Pour afficher tous les posts
+
+{% raw %}
+```
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+```
+{% endraw %}
+
+# Se présenter / publier un article
+
