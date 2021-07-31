@@ -72,8 +72,12 @@ Pour afficher tous les posts
 
 # Se présenter / publier un article
 
-https://daringfireball.net/projects/markdown/syntax
+[OpenClassrooms](https://openclassrooms.com/fr/courses/1304236-redigez-en-markdown)
 
+ [Blog de Damien](https://damii-en.github.io/)  
+
+ [Blog de Marion](https://marionchampi.github.io/)
+ 
 
 Publier une image
 Publier un lien
