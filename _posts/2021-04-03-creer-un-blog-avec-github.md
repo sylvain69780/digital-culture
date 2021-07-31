@@ -72,3 +72,10 @@ Pour afficher tous les posts
 
 # Se présenter / publier un article
 
+https://daringfireball.net/projects/markdown/syntax
+
+
+Publier une image
+Publier un lien
+Mettre en forme avec Markdown
+
