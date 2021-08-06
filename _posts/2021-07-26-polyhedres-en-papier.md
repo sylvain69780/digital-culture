@@ -10,4 +10,4 @@ Faire des dessins sur un feuille c'est bien mais bien plus épatant est de dessi
 # Liens utiles
 - Faire tout les polyhedres en papier https://www.polyhedra.net/fr/
 - [Patron d'un Dodecahedre Rhombique](https://www.polyhedra.net/pdf/rhombic_dodecahedron.pdf)
--[Patron d'un Dodecahedre](https://www.polyhedra.net/pdf/dodecahedron.pdf) 
+- [Patron d'un Dodecahedre](https://www.polyhedra.net/pdf/dodecahedron.pdf) 

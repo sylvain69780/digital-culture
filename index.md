@@ -21,3 +21,11 @@ une séquence d'apprentissage](http://www.ac-grenoble.fr/ien.grenoble5/IMG/pdf_S
     {% endfor %}
   </ul>
 {% endfor %}
+  
+Exemple de plan d'une séance :
+- Vérification des pre-requis
+- Présentation des objectifs de travail
+- Apport de connaissance
+- Application formative
+- Conclusion / Correction
+
